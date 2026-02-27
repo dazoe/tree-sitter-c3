@@ -3590,7 +3590,7 @@
             },
             {
               "type": "STRING",
-              "value": "cenum"
+              "value": "constdef"
             },
             {
               "type": "SEQ",

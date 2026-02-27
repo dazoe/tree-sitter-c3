@@ -830,7 +830,7 @@ enum State : int {
     TERMINATED,
 }
 
-cenum OpCode {
+constdef OpCode {
     ADD,
     SUB,
 }
